@@ -1,0 +1,39 @@
+body{
+    background: #CC0001
+}
+.logo{
+    border-radius: 50%;
+}
+h1,h2{
+    text-align: center;
+    color: #FED900;
+
+}
+a{
+    font-family: 'Roboto';
+}
+
+.carousel {
+    display: block;
+    margin-top: 25px;
+}
+
+.hino{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.table,p{
+    font-family: 'Merriweather';
+}
+.card{
+    border: none;
+    margin-bottom: 20px;
+    width: auto;
+}
+h5{
+    font-family: 'Robot Condensed';
+    font-weight: 700;
+}
